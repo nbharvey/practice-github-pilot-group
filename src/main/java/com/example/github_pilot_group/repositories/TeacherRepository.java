@@ -1,6 +1,6 @@
-package repositories;
+package com.example.github_pilot_group.repositories;
 
-import models.Teacher;
+import com.example.github_pilot_group.models.Teacher;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

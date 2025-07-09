@@ -1,7 +1,7 @@
-package controllers;
+package com.example.github_pilot_group.controllers;
 
-import models.Teacher;
-import services.TeacherService;
+import com.example.github_pilot_group.models.Teacher;
+import com.example.github_pilot_group.services.TeacherService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

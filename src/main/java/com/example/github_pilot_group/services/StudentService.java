@@ -1,8 +1,8 @@
-package services;
+package com.example.github_pilot_group.services;
 
-import models.Student;
+import com.example.github_pilot_group.models.Student;
 import org.springframework.stereotype.Service;
-import repositories.StudentRepository;
+import com.example.github_pilot_group.repositories.StudentRepository;
 import java.util.List;
 import java.util.Optional;
 
